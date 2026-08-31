@@ -1,0 +1,40 @@
+Write a Pandas program to select the distinct department id from employees file.
+Write a Pandas program to display the IDs of employees who have done two or more jobs in the past.
+Write a Pandas program to display the details of jobs in descending sequence on job title.
+Write a Pandas program to create a line plot of the historical stock prices of Alphabet Inc. between two specific dates.
+Write a Pandas program to create a bar plot of the trading volume of Alphabet Inc. stock between two specific dates.
+Write a Pandas program to create a scatter plot of the trading volume/stock prices of Alphabet Inc. stock between two specific dates.
+Write a Pandas program to create a Pivot table and find the maximum and minimum sale value of the items.
+Write a Pandas program to create a Pivot table and find the item wise unit sold.
+Write a Pandas program to create a Pivot table and find the total sale amount region wise, manager wise, sales man wise.
+Create a dataframe of ten rows, four columns with random values. Write a Pandas program to highlight the negative numbers red and positive numbers black.
+Create a dataframe of ten rows, four columns with random values. Convert some values to nan values. Write a Pandas program which will highlight the nan values.
+Create a dataframe of ten rows, four columns with random values. Write a Pandas program to set dataframe background Color black and font color yellow.
+Write a Pandas program to detect missing values of a given DataFrame. Display True or False.
+Write a Pandas program to find and replace the missing values in a given DataFrame which do not have any valuable information.
+Write a Pandas program to keep the rows with at least 2 NaN values in a given DataFrame.
+Write a Pandas program to split the following dataframe into groups based on school code. Also check the type of GroupBy object.
+Write a Pandas program to split the following dataframe by school code and get mean, min, and max value of age for each school.
+Write a Pandas program to split the following given dataframe into groups based on school code and class.
+Write a Pandas program to display the dimensions or shape of the World alcohol consumption dataset. Also extract the column names from the dataset.
+Write a Pandas program to find the index of a given substring of a DataFrame column.
+Write a Pandas program to swap the cases of a specified character column in a given DataFrame.
+Write a Python program to draw a line with suitable label in the x axis, y axis and a title.
+Write a Python program to draw a line using given axis values taken from a text file, with suitable label in the x axis, y axis and a title.
+Write a Python program to draw line charts of the financial data of Alphabet Inc. between October 3, 2016 to October 7, 2016.
+Write a Python program to plot two or more lines with legends, different widths and colors.
+Write a Python program to create multiple plots.
+Write a Python program to display a bar chart of the popularity of programming Languages.
+Write a Python program to display a horizontal bar chart of the popularity of programming Languages.
+Write a Python program to display a bar chart of the popularity of programming Languages. Use different color for each bar.
+Write a Python program to create bar plot of scores by group and gender. Use multiple X values on the same chart for men and women.
+Write a Python program to create a stacked bar plot with error bars. Use bottom to stack the women’s bars on top of the men’s bars.
+Write a Python program to draw a scatter graph taking a random distribution in X and Y and plotted against each other.
+Write a Python program to draw a scatter plot with empty circles taking a random distribution in X and Y and plotted against each other.
+Write a Python program to draw a scatter plot using random distributions to generate balls of different sizes.
+Write a Python program to draw a scatter plot comparing two subject marks of Mathematics and Science. Use marks of 10 students.
+Write a Python program to draw a scatter plot for three different groups comparing weights and heights.
+Write a Pandas program to create a dataframe from a dictionary and display it.
+Write a Pandas program to create and display a DataFrame from a specified dictionary data which has the index labels.
+Write a Pandas program to get the first 3 rows of a given DataFrame.
+Write a Pandas program to select the 'name' and 'score' columns from the following DataFrame.
